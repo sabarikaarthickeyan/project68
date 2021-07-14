@@ -1,0 +1,26 @@
+.menu{
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+.links{
+    display: inline;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 25px;
+}
+a{
+    text-decoration: none;
+    color: crimson;
+    text-shadow:2px 2px grainsboro;
+}
+body{
+    text-align: center;
+}
+html{
+    scroll-behavior: smooth;
+}
+    
